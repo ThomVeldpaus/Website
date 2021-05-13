@@ -2,5 +2,7 @@
 
 ## Development company specialized in custom applications which meet all clients requirements.
 
-### The number 1 in faultless solid (Web-)App development.
+### We are top of the industry, building the most firm (Web-)Apps, which are running customized processes. 
+### Finetuned with very high precision to the clients requirements, the applications (inter)compatibility is key.
+### 
 ### We build bugfree future proof applications that will match every clients requirements
