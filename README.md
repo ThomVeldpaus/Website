@@ -1,6 +1,6 @@
 # Mind-Mutations
 
-## Development company specialized in custom applications which meet all clients requirements.
+### Development company specialized in custom applications which meet all clients requirements.
 
 ## We are top of the industry, building the most firm requested custom (Web-)Apps.
 ### Finetuned to match with precision the clients requirements, the application (inter-)compatibility is key.
