@@ -10,7 +10,7 @@
 ### Choose "faultless" to be the standard of your application and do not accept any performace deficit.
 
 ### If you have any question about all the possibillities we offer, or the technological requirements to make your application run the way you visualized?
-## Contact us! We'll be happy to answer! 
+# Contact us! We'll be happy to answer! 
 
 
 
